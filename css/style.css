@@ -295,7 +295,7 @@ header .navbar a:hover {
     border: .1rem solid rgba(0, 0, 0, .3);
     border-radius: 1rem;
     text-align: center;
-    background: url(../img/card-bg1.png) no-repeat;
+    background: url(../img/card-bg3.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -571,7 +571,7 @@ header .navbar a:hover {
         right: 0;
         height: calc(100vh - 70%);
         border-top: .2rem solid #333;
-        background: url(../img/card-bg1.png) no-repeat;
+        background: url(../img/card-bg2.png) no-repeat;
         background-size: cover;
         background-position: center;
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
